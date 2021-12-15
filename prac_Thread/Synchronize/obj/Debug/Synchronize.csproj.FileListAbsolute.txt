@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\Synchronize\bin\Debug\Synchronize.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\Synchronize\bin\Debug\Synchronize.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\Synchronize\bin\Debug\Synchronize.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\Synchronize\obj\Debug\Synchronize.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\Synchronize\obj\Debug\Synchronize.pdb

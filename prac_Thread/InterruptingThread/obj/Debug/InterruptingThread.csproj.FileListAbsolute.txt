@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\InterruptingThread\bin\Debug\InterruptingThread.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\InterruptingThread\bin\Debug\InterruptingThread.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\InterruptingThread\bin\Debug\InterruptingThread.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\InterruptingThread\obj\Debug\InterruptingThread.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\InterruptingThread\obj\Debug\InterruptingThread.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\prac_Thread\InterruptingThread\obj\Debug\InterruptingThread.pdb
