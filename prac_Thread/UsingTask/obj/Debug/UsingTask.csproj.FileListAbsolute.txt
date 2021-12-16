@@ -1,0 +1,5 @@
+C:\prac_csharp_Thread\prac_Thread\UsingTask\bin\Debug\UsingTask.exe.config
+C:\prac_csharp_Thread\prac_Thread\UsingTask\bin\Debug\UsingTask.exe
+C:\prac_csharp_Thread\prac_Thread\UsingTask\bin\Debug\UsingTask.pdb
+C:\prac_csharp_Thread\prac_Thread\UsingTask\obj\Debug\UsingTask.exe
+C:\prac_csharp_Thread\prac_Thread\UsingTask\obj\Debug\UsingTask.pdb

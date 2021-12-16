@@ -1,0 +1,5 @@
+C:\prac_csharp_Thread\prac_Thread\Async\bin\Debug\Async.exe.config
+C:\prac_csharp_Thread\prac_Thread\Async\bin\Debug\Async.exe
+C:\prac_csharp_Thread\prac_Thread\Async\bin\Debug\Async.pdb
+C:\prac_csharp_Thread\prac_Thread\Async\obj\Debug\Async.exe
+C:\prac_csharp_Thread\prac_Thread\Async\obj\Debug\Async.pdb

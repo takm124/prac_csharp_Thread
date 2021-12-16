@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synchronize", "Synchronize\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMonitor", "UsingMonitor\UsingMonitor.csproj", "{2EF5B0EB-F262-4085-81C7-86709E959E62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTask", "UsingTask\UsingTask.csproj", "{EC8D8734-164A-452F-852D-4170AD13E539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{CE1BA443-85C3-4D84-AD9F-F4D6C56C32F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{2EF5B0EB-F262-4085-81C7-86709E959E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EF5B0EB-F262-4085-81C7-86709E959E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EF5B0EB-F262-4085-81C7-86709E959E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8D8734-164A-452F-852D-4170AD13E539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8D8734-164A-452F-852D-4170AD13E539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8D8734-164A-452F-852D-4170AD13E539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8D8734-164A-452F-852D-4170AD13E539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1BA443-85C3-4D84-AD9F-F4D6C56C32F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1BA443-85C3-4D84-AD9F-F4D6C56C32F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1BA443-85C3-4D84-AD9F-F4D6C56C32F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1BA443-85C3-4D84-AD9F-F4D6C56C32F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
